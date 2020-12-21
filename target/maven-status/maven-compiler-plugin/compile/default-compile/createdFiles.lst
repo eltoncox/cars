@@ -1,0 +1,16 @@
+com\carros\api\exception\security\UserDetailsServiceImpl.class
+com\carros\domain\CarroRepository.class
+com\carros\domain\Role.class
+com\carros\domain\User.class
+com\carros\api\IndexController.class
+com\carros\domain\Carro.class
+com\carros\api\exception\Error.class
+com\carros\api\exception\security\SecurityConfig.class
+com\carros\domain\dto\CarroDTO.class
+com\carros\domain\CarroService.class
+com\carros\domain\UserRepository.class
+com\carros\api\exception\ExceptionConfig.class
+com\carros\api\SwaggerConfig.class
+com\carros\api\exception\ObjectNotFoundException.class
+com\carros\CarrosApplication.class
+com\carros\api\CarrosController.class
