@@ -61,7 +61,7 @@
             <version>9.4-1201-jdbc41</version>
         </dependency>
 
-        <!-- MySQL 
+        <!-- MySQL
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
