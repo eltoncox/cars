@@ -54,19 +54,19 @@
             <version>2.3.0</version>
         </dependency>
 
-        <!-- PostGRESQL
+        <!-- PostGRESQL -->
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
-            <version>42.2.2</version>
-        </dependency>  -->
+            <version>9.4-1201-jdbc41</version>
+        </dependency>
 
-        <!-- MySQL -->
+        <!-- MySQL 
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
             <scope>runtime</scope>
-        </dependency>
+        </dependency> -->
 
         <!-- Test -->
         <dependency>
